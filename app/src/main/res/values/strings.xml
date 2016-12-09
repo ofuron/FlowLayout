@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">FlowLayout</string>
+  <string name="button_test">FlowLayout</string>
+  <string name="button_longTest">This is a long button</string>
+</resources>
